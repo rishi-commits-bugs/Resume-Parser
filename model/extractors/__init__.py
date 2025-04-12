@@ -1,0 +1,1 @@
+"""Module for text extraction from various file types""" 
